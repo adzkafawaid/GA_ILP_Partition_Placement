@@ -2,7 +2,7 @@
 
 1. Clone repository
    ```
-   git clone https://github.com/hafidnrzs/yafs-fog-computing.git
+   git clone [https://github.com/hafidnrzs/yafs-fog-computing.git](https://github.com/adzkafawaid/GA_ILP_Partition_Placement.git)
    ```
 2. Navigasi ke folder
    ```
@@ -14,8 +14,8 @@
    ```
 4. Jalankan kode program
    ```
-   cd fspcn-paper
-   python main.py
+   cd src
+   python main_nf.py
    ```
 
 Hasil akan tersimpan pada folder results yang terdiri dari file `graph_barabasi_albert_2.gexf` dan visualisasi `topology_visualization.png`
